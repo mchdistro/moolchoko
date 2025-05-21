@@ -186,6 +186,16 @@
           }
         },
         {
+          "id": "net.wurstclient.zoom:wi_zoom:1.6-MC1.20.1@jar",
+          "name": "WI Zoom",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 155225,
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/fabricmods/required/WI-Zoom-1.6-MC1.20.1.jar",
+            "MD5": "402e43eac5ceb006c20b19928f880fda"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
