@@ -196,13 +196,22 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 270,
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
             "size": 484,
             "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/files/options.txt",
-            "MD5": "acd0545006ada3610d66f55cf89b1c6f",
             "path": "options.txt"
           }
         },
@@ -215,6 +224,27 @@
             "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/files/servers.dat",
             "MD5": "70095e0cfa2d2dbb5ebb2176324d54b5",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "photon_v1.0a.zip",
+          "name": "photon_v1.0a.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1558823,
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/files/shaderpacks/photon_v1.0a.zip",
+            "MD5": "ffcfb4e8f28620b32e1f88fd2ecd8cbb",
+            "path": "shaderpacks/photon_v1.0a.zip"
+          }
+        },
+        {
+          "id": "photon_v1.0a.zip.txt",
+          "name": "photon_v1.0a.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 583,
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/files/shaderpacks/photon_v1.0a.zip.txt",
+            "path": "shaderpacks/photon_v1.0a.zip.txt"
           }
         }
       ]
