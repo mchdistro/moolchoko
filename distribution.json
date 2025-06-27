@@ -8,12 +8,12 @@
   },
   "servers": [
     {
-      "id": "sportsDay_v1-1.20.1",
-      "name": "마크체육대 : 입시평가",
+      "id": "VirtualArrowWar_v1-1.20.1",
+      "name": "버츄얼 화살 전쟁",
       "description": "Minecraft 1.20.1 (Fabric v0.16.14)",
       "icon": "https://github.com/mchdistro/moolchoko/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "물초코.서버.한국",
+      "address": "116.46.243.14",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 6738,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/fabricmods/required/blurserveraddress-1.0.0+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/fabricmods/required/blurserveraddress-1.0.0+mc1.20.1.jar",
             "MD5": "30b840a2f3d109a49755e0ae4b66ee58"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107841,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
             "MD5": "9d6b286586e9d6b40ee161dee1dd271f"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 105382,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/fabricmods/required/indium-1.0.36+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/fabricmods/required/indium-1.0.36+mc1.20.1.jar",
             "MD5": "21cefdaa742e1f31ded4f85f55a0f41c"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2726899,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
             "MD5": "45577adb5ab16505572c6ea4b1006e58"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3246941,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/fabricmods/required/koreanpatch-fabric-1.8.2+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/fabricmods/required/koreanpatch-fabric-1.8.2+mc1.20.1.jar",
             "MD5": "6f9831f8f5fc92aeb2d8b97e3285dafb"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 971552,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8103826,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.30.jar",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.30.jar",
             "MD5": "10efc718572d137c7ba2ab386f307bba"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 155225,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/fabricmods/required/WI-Zoom-1.6-MC1.20.1.jar",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/fabricmods/required/WI-Zoom-1.6-MC1.20.1.jar",
             "MD5": "402e43eac5ceb006c20b19928f880fda"
           }
         },
@@ -201,7 +201,7 @@
           "type": "File",
           "artifact": {
             "size": 270,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/files/config/iris.properties",
             "path": "config/iris.properties"
           }
         },
@@ -211,7 +211,7 @@
           "type": "File",
           "artifact": {
             "size": 484,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/files/options.txt",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -221,7 +221,7 @@
           "type": "File",
           "artifact": {
             "size": 117,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/files/servers.dat",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/files/servers.dat",
             "MD5": "70095e0cfa2d2dbb5ebb2176324d54b5",
             "path": "servers.dat"
           }
@@ -232,7 +232,7 @@
           "type": "File",
           "artifact": {
             "size": 1558823,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/files/shaderpacks/photon_v1.0a.zip",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/files/shaderpacks/photon_v1.0a.zip",
             "MD5": "ffcfb4e8f28620b32e1f88fd2ecd8cbb",
             "path": "shaderpacks/photon_v1.0a.zip"
           }
@@ -243,7 +243,7 @@
           "type": "File",
           "artifact": {
             "size": 583,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/sportsDay_v1-1.20.1/files/shaderpacks/photon_v1.0a.zip.txt",
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/VirtualArrowWar_v1-1.20.1/files/shaderpacks/photon_v1.0a.zip.txt",
             "path": "shaderpacks/photon_v1.0a.zip.txt"
           }
         }
