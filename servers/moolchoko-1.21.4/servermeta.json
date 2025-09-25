@@ -1,0 +1,30 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/moolchoko/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "moolchoko (Minecraft 1.21.4)",
+    "description": "Minecraft 1.21.4 (Fabric v0.17.2)",
+    "icon": "https://github.com/mchdistro/레포/raw/main/server-icon.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.17.2"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": [
+        "files"
+      ],
+      "patterns": [
+        "options.txt"
+      ]
+    }
+  ]
+}
