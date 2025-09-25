@@ -9,19 +9,19 @@
   "servers": [
     {
       "id": "moolchoko-1.21.4",
-      "name": "moolchoko (Minecraft 1.21.4)",
+      "name": "퀴즈쇼 1vs100",
       "description": "Minecraft 1.21.4 (Fabric v0.17.2)",
       "icon": "https://github.com/mchdistro/레포/raw/main/server-icon.png",
-      "version": "1.0.0",
-      "address": "localhost:25565",
+      "version": "3.0.0",
+      "address": "준우.온라인.한국",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.17.2",
@@ -126,6 +126,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:fabric-api:0.119.4+1.21.4@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2149128,
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/moolchoko-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "MD5": "128a8d042180e7c92567342e21a21a6d"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -186,13 +196,34 @@
           }
         },
         {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 312,
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/moolchoko-1.21.4/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 112,
+            "size": 145,
             "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/moolchoko-1.21.4/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 126,
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/moolchoko-1.21.4/files/servers.dat",
+            "MD5": "e055a159accb0fb4117d072f739ebf3b",
+            "path": "servers.dat"
           }
         },
         {
@@ -213,7 +244,6 @@
           "artifact": {
             "size": 203,
             "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/moolchoko-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt",
-            "MD5": "88337037f2a7f62b0f5e8a426ffe193b",
             "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip.txt"
           }
         }
