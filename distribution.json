@@ -220,9 +220,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 126,
+            "size": 220,
             "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/DiaWar-1.21.4/files/servers.dat",
-            "MD5": "e055a159accb0fb4117d072f739ebf3b",
+            "MD5": "790f2684fbdcc15cfccd50c98822cf5e",
             "path": "servers.dat"
           }
         },
