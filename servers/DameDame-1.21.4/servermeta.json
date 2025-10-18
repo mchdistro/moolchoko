@@ -2,9 +2,9 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/moolchoko/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "2.0.0",
-    "name": "다이아전쟁",
+    "name": "다메다메 서버",
     "description": "Minecraft 1.21.4 (Fabric v0.17.2)",
-    "icon": "https://github.com/mchdistro/moolchoko/raw/main/server-icon.png",
+    "icon": "https://github.com/mchdistro/moolchoko/raw/main/linco0_0.png",
     "address": "준우.온라인.한국",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
