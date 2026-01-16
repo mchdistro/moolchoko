@@ -2,9 +2,9 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/moolchoko/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "크리스마스 힐링 마을",
+    "name": "다메다메 4",
     "description": "Minecraft 1.21.4 (Fabric v0.17.2)",
-    "icon": "https://github.com/mchdistro/moolchoko/raw/main/momong.png",
+    "icon": "https://github.com/mchdistro/moolchoko/raw/main/DameDame4.png",
     "address": "준우.온라인.한국:31897",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
