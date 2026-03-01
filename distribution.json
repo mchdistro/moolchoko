@@ -146,16 +146,6 @@
           }
         },
         {
-          "id": "com.gitter.gtdonationapi.fabric.v1_21_4:gtdonationapi:2.0.7@jar",
-          "name": "GT-DonationAPI",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 8990141,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/DameDame5-1.21.4/fabricmods/required/GT-DonationAPI-fabric-1.21.4-2.0.7.jar",
-            "MD5": "7f7efdeacc662e41ac5630321c0545c9"
-          }
-        },
-        {
           "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
           "name": "Iris",
           "type": "FabricMod",
