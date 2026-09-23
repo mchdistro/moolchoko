@@ -136,6 +136,16 @@
           }
         },
         {
+          "id": "kr.damedame:pointshop:0.1.0@jar",
+          "name": "다메다메 포인트 상점",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8019821,
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/DameDame6-1.21.4/fabricmods/required/damedame-pointshop-client-0.1.0.jar",
+            "MD5": "4a4b1bd6f5b17c8b3b1f6109acd52618"
+          }
+        },
+        {
           "id": "bot.colla:donation:2.0.2+allcounts.1@jar",
           "name": "Donation",
           "type": "FabricMod",
