@@ -2,7 +2,7 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/moolchoko/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "다메다메 5",
+    "name": "다메다메 6",
     "description": "Minecraft 1.21.4 (Fabric v0.18.4)",
     "icon": "https://github.com/mchdistro/moolchoko/raw/main/DameDame4.png",
     "address": "스트리머.온라인.한국:25566",
