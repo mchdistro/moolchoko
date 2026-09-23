@@ -126,13 +126,23 @@
           }
         },
         {
-          "id": "bot.colla:donation:2.0.2@jar",
+          "id": "kr.damedame.cube:cubeui:0.1.0@jar",
+          "name": "다메다메 큐브",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 14665886,
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/DameDame6-1.21.4/fabricmods/required/damedame-cube-client-0.1.0.jar",
+            "MD5": "273c22879170b76daa227a0e891a7038"
+          }
+        },
+        {
+          "id": "bot.colla:donation:2.0.2+allcounts.1@jar",
           "name": "Donation",
           "type": "FabricMod",
           "artifact": {
-            "size": 832983,
-            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/DameDame6-1.21.4/fabricmods/required/donation-fabric-1.21.4-2.0.2.jar",
-            "MD5": "13e5465b5ed84d6b27082119c12e01fa"
+            "size": 843933,
+            "url": "https://github.com/mchdistro/moolchoko/raw/main/servers/DameDame6-1.21.4/fabricmods/required/donation-fabric-1.21.4-2.0.2-allcounts.1.jar",
+            "MD5": "4783b76846c7514a2ba3fdb12bde0318"
           }
         },
         {
